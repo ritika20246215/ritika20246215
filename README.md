@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm RITIKA AGARWAL</h1>
 <h3 align="center">AN ENGINEERING STUDENT FROM INDIA</h3>
- <img align="right" alt="coding" width="400 " src="https://www.bing.com/images/search?view=detailV2&ccid=FzgJC8ty&id=BCA3F862A6B87085ED7A0CB24A3F35E58E854B28&thid=OIP.FzgJC8tySJNKSsTx_cGCFwHaEK&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f26tn33aiTi1jkl6H6%2fgiphy.gif&exph=281&expw=500&q=animated+coding+gif&simid=608021521514906393&FORM=IRPRST&ck=AA05B68557AE12D5AD1E3DD1EF84C662&selectedIndex=28&itb=0">
 
 
 - 🔭 I’m currently working on **Clone Websites and python beginner projects**

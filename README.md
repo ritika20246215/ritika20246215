@@ -3,7 +3,7 @@
 <h3 align="center">AN ENGINEERING STUDENT FROM INDIA</h3>
 
 
-- 🔭 I’m currently working on **CLONE WEBSITES**
+- 🔭 I’m currently working on **CLONE WEBSITES and Python begineers projects**
 
 - 🌱 I’m currently learning **PYTHON,JAVA**
 
